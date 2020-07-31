@@ -1,0 +1,12 @@
+insert into new_case (state, date, num) values ('vic', '2020-07-01', 50); 
+insert into new_case (state, date, num) values ('vic', '2020-07-02', 51);
+insert into new_case (state, date, num) values ('vic', '2020-07-03', 53);
+insert into new_case (state, date, num) values ('vic', '2020-07-04', 52);
+insert into new_case (state, date, num) values ('vic', '2020-07-05', 40);
+insert into new_case (state, date, num) values ('vic', '2020-07-06', 60);
+insert into new_case (state, date, num) values ('vic', '2020-07-07', 70); 
+insert into new_case (state, date, num) values ('vic', '2020-07-08', 80);
+insert into new_case (state, date, num) values ('vic', '2020-07-09', 99);
+insert into new_case (state, date, num) values ('vic', '2020-07-10', 75);
+insert into new_case (state, date, num) values ('vic', '2020-07-11', 101);
+insert into new_case (state, date, num) values ('vic', '2020-07-12', 160);
